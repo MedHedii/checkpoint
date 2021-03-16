@@ -1,0 +1,26 @@
+.title{
+    text-align: center;
+}
+.red{
+    color: red;
+    font-family: 'Times New Roman', Times, serif;
+    margin-top: 0%;
+    padding: 2% 0;
+}
+.imgClass{
+    border-radius: 10px;
+}
+.items{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-direction: column;
+}
+.vid{
+    display: block;
+    margin: 3% auto;
+    width: auto;
+}
+nav.navbar{
+    background-color: ghostwhite;
+}
